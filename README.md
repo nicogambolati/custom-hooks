@@ -1,7 +1,7 @@
 # Custom hooks repository
 
 ## useCounter
-This custom hook handles data fetching by making HTTP requests and managing the loading state, error handling, and caching of fetched data.
+This custom hook provides functionality for counting and allows you to increment, decrement, and reset the counter to a specified initial value.
 
 ## useFetch
 This custom hook handles data fetching by making HTTP requests and managing the loading state, error handling, and caching of fetched data.
